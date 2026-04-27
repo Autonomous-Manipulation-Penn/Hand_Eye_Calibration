@@ -1,4 +1,20 @@
 # ROS2 Multi-Machine Communication & Hand-Eye Calibration Guide
+<table style="width: 100%;">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/26c3d77c-3e1b-4ea2-97b5-cf1fa91241fc" alt="image 1" style="width: 100%;" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f12f8394-62c7-4990-b4ce-e43155a8ac6b" alt="image 2" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img style="width: 60%;" alt="resized image 60%" src="https://github.com/user-attachments/assets/f69365a5-55ec-4e87-aa25-a4a8b0f4e5d8" />
+</div>
+
+
+
 
 This repository provides a step-by-step workflow for setting up high-performance ROS2 Humble communication between a **Vision Computer** and a **Robot Computer** (Franka Panda), followed by a hand-eye calibration procedure using `easy_handeye2`.
 
@@ -147,3 +163,6 @@ You can also do eye in hand by using
 If eye_on_base, stick the tag to the end effector, move the arm around, and click on ``take sample``, repeat many times until the result converges. The GUI will show the transformation from base-link to camera.
 
 If eye_on_hand, stick the tag on the table.
+
+<img width="1280" height="625" alt="image" src="https://github.com/user-attachments/assets/8233747f-0a89-4a16-a424-df79dcaa9e29" />
+
