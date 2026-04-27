@@ -164,7 +164,7 @@ You can also do eye in hand by using
 
 If eye_on_base, stick the tag to the end effector, move the arm around, and click on ``take sample``, repeat many times until the result converges. The GUI will show the transformation from base-link to camera.
 
-If eye_on_hand, stick the tag on the table.
+If eye_on_hand, stick the tag on the table. The GUI will show the transformation from endbase-link-effector to camera.
 
 <img width="1280" height="625" alt="image" src="https://github.com/user-attachments/assets/8233747f-0a89-4a16-a424-df79dcaa9e29" />
 
