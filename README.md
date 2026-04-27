@@ -18,6 +18,8 @@
 
 This repository provides a step-by-step workflow for setting up high-performance ROS2 Humble communication between a **Vision Computer** and a **Robot Computer** (Franka Panda), followed by a hand-eye calibration procedure using `easy_handeye2`.
 
+**Vision computer (shared) already has everything installed; you can skip to usage.**
+
 ## 1. Network Configuration
 We use a static IP setup over a direct Ethernet connection.
 
