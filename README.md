@@ -168,3 +168,11 @@ If eye_on_hand, stick the tag on the table. The GUI will show the transformation
 
 <img width="1280" height="625" alt="image" src="https://github.com/user-attachments/assets/8233747f-0a89-4a16-a424-df79dcaa9e29" />
 
+### Reference Only: On-chip Intrinsics Calibration
+```
+sudo apt-get update
+sudo apt-get install librealsense2-utils
+```
+For using this app to calibrate intrinsics, refer to this video: https://www.youtube.com/watch?v=pcoYc4YPVMY
+
+
